@@ -1,0 +1,23 @@
+id: AE9F911F6
+title: 'The Spontaneous Sound of Uncontrived Song: A Lament Recalling the Great Guru
+  of Oḍḍiyāna'
+type: translation
+pechas:
+- I414AFFA7
+- IAF5B5EAB
+- I73E6578D
+source_metadata:
+  languages:
+  - en
+  - zh
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:50:40.144762
+  last_modified_at: 2023-01-04 12:50:40.144780
+  collections:
+  - Khenchen Jigme Phuntsok Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I414AFFA7/827F: '2482'
+  IAF5B5EAB/B555: '2482'
+  I73E6578D/8538: '2482'
